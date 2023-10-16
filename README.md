@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
-        <title>A bit about me</title>
+        
         <link rel="stylesheet" type="text/css" href="css/style.css"/>
     </head>
     <body>
